@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+background-color: aqua;
+justify-content: center;
+align-items: center;
+text-align: center;
+height: 90vh;
+}
+
+
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+    margin-top: 10%;
+    margin-left: 40%;
+
+  }
